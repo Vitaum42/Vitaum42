@@ -21,18 +21,11 @@ Hoje, transformo isso em prática construindo **APIs, sistemas e soluções reai
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vitaum42&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitaum42&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaum42&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vitaum42&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 📊 Linguagens mais utilizadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaum42&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
