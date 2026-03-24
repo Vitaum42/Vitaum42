@@ -29,10 +29,18 @@ Hoje, transformo isso em prática construindo **APIs, sistemas e soluções reai
 
 ---
 
-## ⚙️ Tecnologias
+## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,git,github,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaum42&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Stack predominante
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres,git,github,vscode,html,css" />
 </p>
 
 ---
